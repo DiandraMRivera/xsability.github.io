@@ -19,7 +19,11 @@ This is a self contained learning module about how to use MathPix, Pandoc, and M
 
    b. [Markdown Markup](https://diandramrivera.github.io/xsability/mFigPracticeMarkup.html) (copy and paste this into VS Code).
 
-4. This workflow can also produce [accessible presentation slides](https://diandramrivera.github.io/xsability/htmlPresentation.html)
+4. This workflow can also produce HTML presentations:
+
+   a. [Accessible Presentation Slides](https://diandramrivera.github.io/xsability/htmlPresentation.html)
+
+   b. [Markdown Markup](https://diandramrivera.github.io/xsability/htmlPresentationMarkup.html)
 
 ## Read Me
 
