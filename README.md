@@ -4,7 +4,7 @@
 
 ## Accessibile Math
 
-*Accessible Math is proper MathML or transcribed by MathJax* The goal of these documents is to teach how to remediate inaccessible mathematics-rich content (pdf's, word, etc.) to [WCAG AA](https://www.wcag.com/resource/what-is-wcag/#The_Three_Levels_of_WCAG_Conformance_A_AA_and_AAA) (or above) standards. The [American Mathematical Society](https://www.ams.org/accessibility/accessibility-guidance) advocates for any tool that can accomplish this task. However, little information is available to digital accessibility professionals who need to re-author mathematics to satisfy the [following accessibility principles](https://www.w3.org/TR/WCAG21/#background-on-wcag-2)
+**Accessible Math is proper MathML or transcribed by MathJax**. The goal of these documents is to teach how to remediate inaccessible mathematics-rich content (pdf's, word, etc.) to [WCAG AA](https://www.wcag.com/resource/what-is-wcag/#The_Three_Levels_of_WCAG_Conformance_A_AA_and_AAA) (or above) standards. The [American Mathematical Society](https://www.ams.org/accessibility/accessibility-guidance) advocates for any tool that can accomplish this task. However, little information is available to digital accessibility professionals who need to re-author mathematics to satisfy the [following accessibility principles](https://www.w3.org/TR/WCAG21/#background-on-wcag-2)
 
 - Math that is **distinguishable** from other elements in the document
 - Math that is **navigable** at multiple scales *via keyboard input alone*
