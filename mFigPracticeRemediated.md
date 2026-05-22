@@ -198,3 +198,4 @@ Overlapping sets A,B,C,D
     - The tangent potato **P** is located somewhere on the negative **x** axis.
     - A normal vector **n** points from the surface s through **P**.
     - the principle axis of **P** appears in this figure as an axis adjacent to **P**'s longest dimension.
+
