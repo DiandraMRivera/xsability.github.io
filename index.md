@@ -11,7 +11,7 @@ This learning module will teach accessibility professionals how to use MathPix, 
 
 1. [Start Here](https://diandramrivera.github.io/xsability/Beginners.html): After reading the forward below, get started here.
 
-   a. Download [this example](https://diandramrivera.github.io/xsability/Chavespg28.pdf) and follow along.
+   a. Download [this example](https://diandramrivera.github.io/xsability/ChavesPg28.pdf) and follow along.
 
    b. You will need to submit a remediated copy of the above to your superior in order to start.
 
