@@ -7,15 +7,15 @@ fontsize: '14pt'
 linkcolor: 'blue'
 ---
 
-This learning module will teach accessibility professionals how to use MathPix, Pandoc, and Markdown to remediate inaccessible mathematical documents to [WCAG AA](https://www.wcag.com/resource/what-is-wcag/#The_Three_Levels_of_WCAG_Conformance_A_AA_and_AAA) compliance. For someone completely unfamiliar with the topic, it should take 6-10 hours to complete.
+This learning module will teach accessibility professionals how to use MathPix, Pandoc, and Markdown to remediate inaccessible mathematical documents to [WCAG AA](https://www.wcag.com/resource/what-is-wcag/#The_Three_Levels_of_WCAG_Conformance_A_AA_and_AAA) compliance. For someone completely unfamiliar with the topic, it should take 6-10 hours to complete. Please [read the short forward below](@sec:readme) before you get started.
 
-1. [Start Here](https://diandramrivera.github.io/xsability/Beginners.html): After reading the forward below, get started here.
+1. [Start Here](https://diandramrivera.github.io/xsability/Beginners.html): After reading the forward below, get started here (~30-60minutes)
 
    a. Download [this example](https://diandramrivera.github.io/xsability/ChavesPg28.pdf) and follow along.
 
-   b. You will need to submit a remediated copy of the above to your superior in order to start.
+   b. You will need to submit a remediated copy of the above to your superior to begin remediation tasks.
 
-2. [Main Course](https://diandramrivera.github.io/xsability/MathRemediation.html): Here, we'll not only learn how to make math accessible, but how to make *mathematical documents* accessible. No, it's not just converting file formats. (~3-4 hours)
+2. [Main Course](https://diandramrivera.github.io/xsability/MathRemediation.html): Here, we'll learn how to make mathematical documents *truly* accessible. No, it's not just converting file formats. (~3-4 hours)
 
 3. [Practice File](https://diandramrivera.github.io/xsability/mFigPractice.pdf): Remediate this PDF using what you learned above. If you are new, this should take about 2 hours, and you absolutely need to reference section 5 in the main course.
 
@@ -31,9 +31,7 @@ This learning module will teach accessibility professionals how to use MathPix, 
 
    b. [Markdown Markup](https://diandramrivera.github.io/xsability/htmlPresentationMarkup.html)
 
-## Read Me
-
-### Forward
+## Forward {#sec:readme}
 
 You show up to math class and the professor is drunk. They start rambling and scribbling at lightning speed, and most of what they are doing is complete nonsense. You raise your hand to ask a question, and in response they immediately erase everything they just wrote, and announce that they must start all over from the beginning, “to *hiccup* make you understand!!!”
 
@@ -45,7 +43,7 @@ Now you understand what it is like to read accessible math with assistive techno
 
 The easiest way to do this, to our knowledge, is to use Mathpix, Markdown, Pandoc, and VS Code to reauthor inaccessible PDF/word files into accessible HTML files. We use Mathpix → Markdown → Pandoc (and Pandoc-crossref) → HTML to automatically transcribe TeX math markup into MathML/MathJax to **maximize accessibility** of what is written while **minimizing author effort** required to organize it in an understandable way (e.g. completely describing figures in a navigable manner).
 
-### You Will Become a Better Author
+## You Will Become a Better Author
 
 This isn't just about accessibility. Completion of this course **will** make you a better author by:
 
