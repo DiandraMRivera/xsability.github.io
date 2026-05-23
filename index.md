@@ -9,7 +9,7 @@ linkcolor: 'blue'
 
 This learning module will teach accessibility professionals how to use MathPix, Pandoc, and Markdown to remediate inaccessible mathematical documents to [WCAG AA](https://www.wcag.com/resource/what-is-wcag/#The_Three_Levels_of_WCAG_Conformance_A_AA_and_AAA) compliance. For someone completely unfamiliar with the topic, it should take 6-10 hours to complete. Please [read the short forward below](@sec:readme) before you get started.
 
-1. [Start Here](https://diandramrivera.github.io/xsability/Beginners.html): After reading the forward below, get started here (~30-60minutes)
+1. [Start Here](https://diandramrivera.github.io/xsability/Beginners.html): After reading the forward below, get started here (~30-60 minutes)
 
    a. Download [this example](https://diandramrivera.github.io/xsability/ChavesPg28.pdf) and follow along.
 
