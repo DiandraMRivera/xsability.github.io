@@ -5,9 +5,10 @@ author: 'Diandra M Rivera^[With special acknowledgement to Lexi Murray for insig
 width: '50%'
 fontsize: '14pt'
 linkcolor: 'blue'
+linkReferences: true
 ---
 
-This learning module will teach accessibility professionals how to use MathPix, Pandoc, and Markdown to remediate inaccessible mathematical documents to [WCAG AA](https://www.wcag.com/resource/what-is-wcag/#The_Three_Levels_of_WCAG_Conformance_A_AA_and_AAA) compliance. For someone completely unfamiliar with the topic, it should take 6-10 hours to complete. Please read the short forward below (@sec:readme) before you get started.
+This learning module will teach accessibility professionals how to use MathPix, Pandoc, and Markdown to remediate inaccessible mathematical documents to [WCAG AA](https://www.wcag.com/resource/what-is-wcag/#The_Three_Levels_of_WCAG_Conformance_A_AA_and_AAA) compliance. For someone completely unfamiliar with the topic, it should take 6-10 hours to complete. [Please  @sec:readme] before you get started.
 
 1. [Start Here](https://diandramrivera.github.io/xsability/Beginners.html): After reading the forward below, get started here (~30-60 minutes)
 
@@ -31,7 +32,7 @@ This learning module will teach accessibility professionals how to use MathPix, 
 
    b. [Markdown Markup](https://diandramrivera.github.io/xsability/htmlPresentationMarkup.html)
 
-## Forward {#sec:readme}
+# Forward {#sec:readme label="read the short forward below"}
 
 You show up to math class and the professor is drunk. They start rambling and scribbling at lightning speed, and most of what they are doing is complete nonsense. You raise your hand to ask a question, and in response they immediately erase everything they just wrote, and announce that they must start all over from the beginning, “to *hiccup* make you understand!!!”
 
