@@ -32,7 +32,7 @@ This learning module will teach accessibility professionals how to use MathPix, 
 
    b. [Markdown Markup](https://diandramrivera.github.io/xsability/htmlPresentationMarkup.html)
 
-# Forward {#sec:readme label="read the short forward below"}
+# Introduction {#sec:readme label="read the short introduction below"}
 
 You show up to math class and the professor is drunk. They start rambling and scribbling at lightning speed, and most of what they are doing is complete nonsense. You raise your hand to ask a question, and in response they immediately erase everything they just wrote, and announce that they must start all over from the beginning, “to *hiccup* make you understand!!!”
 
